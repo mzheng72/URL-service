@@ -1,0 +1,14 @@
+# Compiled application
+URL-service.exe
+URL-service
+
+# Go test output
+*.test
+coverage.out
+
+# Local environment variables and secrets
+.env
+
+# Editor and operating system files
+.vscode/
+Thumbs.db
